@@ -1,0 +1,34 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 7: Line is indented, but the preceding style statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    xpadding 10
+    ^
+
+File "game/script.rpy", line 84: expected ':' not found.
+    label choice1_one
+                     ^
+
+File "game/script.rpy", line 92: expected ':' not found.
+    label choice1_two
+                     ^
+
+File "game/script.rpy", line 100: expected ':' not found.
+    label choice1_three
+                       ^
+
+File "game/script.rpy", line 108: expected ':' not found.
+    label choice1_done
+                      ^
+
+File "game/script.rpy", line 114: expected ':' not found.
+    label tutorial
+                  ^
+
+File "game/script.rpy", line 118: expected ':' not found.
+    label tutorial__done
+                        ^
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Mon Nov  3 13:02:48 2025
